@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44454",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\frans\\Desktop\\W85B-PROGR.-WEB-II-EJ22-main\\aspnetcore-with-reactspa\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
