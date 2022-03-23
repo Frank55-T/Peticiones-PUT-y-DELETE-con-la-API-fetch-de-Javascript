@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "El2ORMk2ObmzrwgbZHK69UIm3IfQytNzOKePHjXT/ZbTQP6v9GRkJIdXU7LxHuSPHiZc4MFi1d6rt5n4ZpPQ4Q==",
+  "dgSpecHash": "suZCXLALx/jhov/yRHiPakK/pvIrtfoNaqnSmCMyMMVvp5mAQMg2RnUSnGsQ9zA7w2/GXrGXHU/zS0bapSL0lw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\frans\\Desktop\\W85B-PROGR.-WEB-II-EJ22-main\\aspnetcore-with-reactspa\\aspnetcore-with-reactspa.csproj",
+  "projectFilePath": "C:\\Users\\frans\\Desktop\\Peticiones-PUT-y-DELETE-con-la-API-fetch-de-Javascript\\aspnetcore-with-reactspa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\frans\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\frans\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.0\\microsoft.aspnetcore.spaproxy.6.0.0.nupkg.sha512",

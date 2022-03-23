@@ -8,17 +8,17 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = aspnetcore_with_reactspa
 build_property.RootNamespace = aspnetcore_with_reactspa
-build_property.ProjectDir = c:\Users\frans\Desktop\W85B-PROGR.-WEB-II-EJ22-main\aspnetcore-with-reactspa\
+build_property.ProjectDir = C:\Users\frans\Desktop\Peticiones-PUT-y-DELETE-con-la-API-fetch-de-Javascript\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\frans\Desktop\W85B-PROGR.-WEB-II-EJ22-main\aspnetcore-with-reactspa
+build_property.MSBuildProjectDirectory = C:\Users\frans\Desktop\Peticiones-PUT-y-DELETE-con-la-API-fetch-de-Javascript
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/frans/Desktop/W85B-PROGR.-WEB-II-EJ22-main/aspnetcore-with-reactspa/Pages/Error.cshtml]
+[C:/Users/frans/Desktop/Peticiones-PUT-y-DELETE-con-la-API-fetch-de-Javascript/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/frans/Desktop/W85B-PROGR.-WEB-II-EJ22-main/aspnetcore-with-reactspa/Pages/_ViewImports.cshtml]
+[C:/Users/frans/Desktop/Peticiones-PUT-y-DELETE-con-la-API-fetch-de-Javascript/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope =
+build_metadata.AdditionalFiles.CssScope = 

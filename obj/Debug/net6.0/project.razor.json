@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\frans\\Desktop\\W85B-PROGR.-WEB-II-EJ22-main\\aspnetcore-with-reactspa\\aspnetcore-with-reactspa.csproj",
+  "FilePath": "c:\\Users\\frans\\Desktop\\Peticiones-PUT-y-DELETE-con-la-API-fetch-de-Javascript\\aspnetcore-with-reactspa.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,13 +16298,13 @@
   "RootNamespace": "aspnetcore_with_reactspa",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\frans\\Desktop\\W85B-PROGR.-WEB-II-EJ22-main\\aspnetcore-with-reactspa\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\frans\\Desktop\\Peticiones-PUT-y-DELETE-con-la-API-fetch-de-Javascript\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\frans\\Desktop\\W85B-PROGR.-WEB-II-EJ22-main\\aspnetcore-with-reactspa\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\frans\\Desktop\\Peticiones-PUT-y-DELETE-con-la-API-fetch-de-Javascript\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     }
   ],

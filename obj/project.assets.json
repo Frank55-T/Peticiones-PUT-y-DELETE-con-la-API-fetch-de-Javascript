@@ -1167,11 +1167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\frans\\Desktop\\W85B-PROGR.-WEB-II-EJ22-main\\aspnetcore-with-reactspa\\aspnetcore-with-reactspa.csproj",
+      "projectUniqueName": "C:\\Users\\frans\\Desktop\\Peticiones-PUT-y-DELETE-con-la-API-fetch-de-Javascript\\aspnetcore-with-reactspa.csproj",
       "projectName": "aspnetcore-with-reactspa",
-      "projectPath": "c:\\Users\\frans\\Desktop\\W85B-PROGR.-WEB-II-EJ22-main\\aspnetcore-with-reactspa\\aspnetcore-with-reactspa.csproj",
+      "projectPath": "C:\\Users\\frans\\Desktop\\Peticiones-PUT-y-DELETE-con-la-API-fetch-de-Javascript\\aspnetcore-with-reactspa.csproj",
       "packagesPath": "C:\\Users\\frans\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\frans\\Desktop\\W85B-PROGR.-WEB-II-EJ22-main\\aspnetcore-with-reactspa\\obj\\",
+      "outputPath": "C:\\Users\\frans\\Desktop\\Peticiones-PUT-y-DELETE-con-la-API-fetch-de-Javascript\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
